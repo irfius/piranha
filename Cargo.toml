@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Placeholder"
 license = "MIT"
 homepage = "https://github.com/irfius/piranha"
-repository = "repository"
+repository = "https://github.com/irfius/piranha"
 authors = ["irfius <irfius@tuta.io>"]
 edition = "2018"
 
